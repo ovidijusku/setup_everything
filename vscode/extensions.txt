@@ -1,0 +1,44 @@
+# VS Code extensions installed by `./install.sh vscode`. One ID per line.
+
+# AI
+anthropic.claude-code
+
+# Python / Jupyter
+ms-python.python
+ms-python.vscode-pylance
+ms-python.debugpy
+ms-python.black-formatter
+ms-python.vscode-python-envs
+ms-toolsai.jupyter
+ms-toolsai.jupyter-keymap
+ms-toolsai.jupyter-renderers
+ms-toolsai.vscode-jupyter-cell-tags
+ms-toolsai.vscode-jupyter-slideshow
+wholroyd.jinja
+
+# Go
+golang.go
+
+# Containers / remote
+docker.docker
+ms-azuretools.vscode-docker
+ms-azuretools.vscode-containers
+ms-vscode-remote.remote-containers
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-ssh-edit
+ms-vscode.remote-explorer
+
+# Git / GitHub
+eamodio.gitlens
+github.vscode-pull-request-github
+github.vscode-github-actions
+
+# Files & formats
+redhat.vscode-yaml
+davidanson.vscode-markdownlint
+yzhang.markdown-all-in-one
+mechatroner.rainbow-csv
+streetsidesoftware.code-spell-checker
+tomoki1207.pdf
+shahilkumar.docxreader
+ms-vscode.hexeditor

@@ -1,0 +1,2 @@
+# ~/.zprofile — symlinked from setup_everything/zsh/zprofile by install.sh.
+eval "$(/opt/homebrew/bin/brew shellenv)"

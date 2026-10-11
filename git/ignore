@@ -1,0 +1,2 @@
+# Global gitignore — linked to ~/.config/git/ignore (git's default location).
+.DS_Store
