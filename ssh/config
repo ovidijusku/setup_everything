@@ -1,0 +1,8 @@
+# ~/.ssh/config — symlinked from setup_everything/ssh/config by install.sh.
+# Never commit keys; only this config lives in the repo.
+
+Host *
+  IgnoreUnknown UseKeychain
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/id_ed25519

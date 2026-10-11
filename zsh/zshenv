@@ -1,0 +1,2 @@
+# ~/.zshenv — symlinked from setup_everything/zsh/zshenv by install.sh.
+ulimit -S -n 2048

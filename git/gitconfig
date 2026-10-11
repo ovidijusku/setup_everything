@@ -1,0 +1,10 @@
+[user]
+	email = ovidijus4733@gmail.com
+	name = Ovidijus
+	signingkey = ~/.ssh/id_ed25519.pub
+[gpg]
+	format = ssh
+[commit]
+	gpgsign = true
+[pager]
+	diff = false
